@@ -1,0 +1,12 @@
+whois
+ifplugd
+w 
+ifstat
+ethtool
+iftop
+tcpdump
+dstat
+tshark
+hping3
+
+
